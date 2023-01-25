@@ -3,14 +3,14 @@
 **Title : QUIT FOR GOOD**
 
 ### Developers
-Harshit Raj - 21BCG10006
-
 Vivek Pathak - 21BCG10147
+
+Harshit Raj - 21BCG10006
 
 
 ### Website Link
 
-Website Link - https://harshit-raj-14.github.io/Quit-For-Good/
+Website Link - https://github.com/vivekpathak924/Quit-For-Good
 
 
 ## Description
